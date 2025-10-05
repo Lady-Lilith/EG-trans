@@ -45,6 +45,8 @@ These files are loaded automatically by `load_data.py` during training.
 - `MA.py` / `PA.py`: Implements multiscale attention and Parnet attention  
  
 ## Usage Instructions
+Run `main.py` directly to do CDA tasks.
+
 - Prepare the Dataset
 
   Download circRNA–disease association data from circR2Disease and circRNADisease.
